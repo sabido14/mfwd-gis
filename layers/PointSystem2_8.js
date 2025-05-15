@@ -1,0 +1,1 @@
+var json_PointSystem2_8 = {"type":"FeatureCollection","name":"PointSystem2_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Untitled Placemark"},"geometry":{"type":"Point","coordinates":[124.844097377663999,8.36066856593173]}}]}
